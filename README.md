@@ -1,4 +1,4 @@
-## Setup Notes
+## Setup Notes (original)
 
 1. All components ready to go (including imports)
 2. Use main.css - less imports
